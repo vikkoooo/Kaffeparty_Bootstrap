@@ -15,17 +15,25 @@ Oss”
 **För** **samtliga** **sidor** **(3st):**
 
 > ● Ett passande och enhetligt färgtema
-> ● Header; med logga eller företagsnamn ( eller båda). 
+> 
+> ● Header; med logga eller företagsnamn ( eller båda).
+> 
 > ● Navbar; med länkar till samtliga sidor
+> 
 > ● Footer; med copyright datum och webmaster
 
 **Index:**
 
-> ● Uppdelad i fyra delar 
+> ● Uppdelad i fyra delar
+> 
 > ○ Vilka är vi?
-> ○ Vad gör vi? 
+> 
+> ○ Vad gör vi?
+> 
 > ○ Varför oss?
+> 
 > ○ Kaﬀeparty, så fungerar det!
+> 
 > ● Dess divar skall innehålla utfyllnads texter [(<u>Lorem
 > Ipsum</u>](https://sv.wikipedia.org/wiki/Lorem_ipsum)) och bilder. En
 > snabb googlesökning ger bra bilder för en prototyp.
@@ -33,18 +41,27 @@ Oss”
 **Produkter:**
 
 > ● Separera Kaﬀeparty och Kaﬀemaskiner.
-> ● Lista kaﬀemaskiner, olika modeller med texter och bild. 
+> 
+> ● Lista kaﬀemaskiner, olika modeller med texter och bild.
+> 
 > ● Layouten ska vara delad i två delar.
+> 
 > ○ Kaﬀemaskiner
+> 
 > ■ Listar kaﬀemaskiner i ett rutnät
-> ■ Information, modell och pris syns tydligt 
+> 
+> ■ Information, modell och pris syns tydligt
+> 
 > ○ Kaﬀeparty
+> 
 > ■ Uppdelad i två delar: Företag och Privatpersoner
 
 **Om** **oss/Kontakt:**
 
 > ● Innehåller mer information om företaget.
+> 
 > ● Kontaktuppgifter med bild, telefonnummer, namn och e-post för VD
+> 
 > ● Kontaktuppgifter med bild, telefonnummer, namn och mejl för HR-ansvarig
 
 Sidan skall fungera lika bra på mobil som på en vanlig dator.
